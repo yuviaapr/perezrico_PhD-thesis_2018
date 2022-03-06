@@ -2,7 +2,7 @@
 
 This repository contains the files used to generate my thesis for obtaining the PhD degree in Genomics from the Sorbonne University.
 
-The main source files are written in LaTeX, but this repository also includes PDF files of the published articles related to this work, as well as, PDF files of an article that was in preparation at the time of submission. Only the files related to Bitetti et al. 2018 article and the images that are part of the introduction are not included in this repository, however, the permissions obtained to reproduce the images on my thesis can be found in the 'figures' folder.
+The main source files are written in LaTeX, but this repository also includes PDF files of a published article related to this work, as well as, PDF files of an article that was in preparation at the time of submission. Only the files related to the Bitetti et al. 2018 article and the images that are part of the introduction are not included in this repository, however, the permissions obtained to reproduce the images on my thesis can be found in the 'figures' folder.
 
 ## Author
 
@@ -32,6 +32,8 @@ Please cite the thesis or research articles as follows:
 - *Bitetti A, Mallory AC, Golini E, et al. MicroRNA degradation by a conserved target RNA regulates animal behavior. Nature Structural & Molecular Biology. 2018 Mar;25(3):244-251. DOI: 10.1038/s41594-018-0032-x. PMID: 29483647.*
 
 ## Links to thesis repositories
+
+You can find the PDF output of this repository in:
 
 - [Theses.fr](http://theses.fr/2018SORUS535)
 - [Hal open archive](https://tel.archives-ouvertes.fr/tel-02892255)
