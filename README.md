@@ -2,7 +2,7 @@
 
 This repository contains the files used to generate my thesis for obtaining the PhD degree in Genomics from the Sorbonne University.
 
-The main source files are written in LaTeX, but this repository also includes PDF files of the published articles related to this work, as well as, PDF files of an article that was in preparation at the time of submission. Only the images that are part of the introduction are not included in this repository, however, the permissions obtained to reproduce them on my thesis can be found in the 'figures' folder.
+The main source files are written in LaTeX, but this repository also includes PDF files of the published articles related to this work, as well as, PDF files of an article that was in preparation at the time of submission. Only the files related to Bitetti et al. 2018 article and the images that are part of the introduction are not included in this repository, however, the permissions obtained to reproduce the images on my thesis can be found in the 'figures' folder.
 
 ## Author
 
